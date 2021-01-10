@@ -15,7 +15,8 @@ First it shows the results dataframe:
 ![Screenshot](results.png)
 
 
-And then, it builds two plot:
+And then, it builds two plots:
+
 **Bar plot with the fit times**
 
 ![Screenshot](time_bar_plot.png)
